@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/cfgv/commit/0e89c0b493e90ae7662a0c4e4dec709df304f553",
       "git:hexsha": "0e89c0b493e90ae7662a0c4e4dec709df304f553",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T11:38:54.134071+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/cfgv/commit/b061a90c473393a54b87d448f69f8c9191d92b19",
